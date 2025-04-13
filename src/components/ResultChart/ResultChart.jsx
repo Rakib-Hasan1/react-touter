@@ -1,4 +1,3 @@
-import { Fullscreen } from "lucide";
 import React from "react";
 import {
   Bar,

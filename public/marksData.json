@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "marks": { "math": 85, "physics": 78, "chemistry": 90 }
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "marks": { "math": 72, "physics": 81, "chemistry": 75 }
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "marks": { "math": 90, "physics": 88, "chemistry": 95 }
+  },
+  {
+    "id": 4,
+    "name": "Diana",
+    "marks": { "math": 65, "physics": 70, "chemistry": 60 }
+  },
+  {
+    "id": 5,
+    "name": "Ethan",
+    "marks": { "math": 78, "physics": 69, "chemistry": 80 }
+  },
+  {
+    "id": 6,
+    "name": "Fiona",
+    "marks": { "math": 88, "physics": 92, "chemistry": 85 }
+  },
+  {
+    "id": 7,
+    "name": "George",
+    "marks": { "math": 80, "physics": 75, "chemistry": 82 }
+  },
+  {
+    "id": 8,
+    "name": "Hannah",
+    "marks": { "math": 95, "physics": 94, "chemistry": 96 }
+  },
+  {
+    "id": 9,
+    "name": "Ivan",
+    "marks": { "math": 70, "physics": 65, "chemistry": 72 }
+  },
+  {
+    "id": 10,
+    "name": "Jasmine",
+    "marks": { "math": 91, "physics": 89, "chemistry": 93 }
+  }
+]
