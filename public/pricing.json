@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 29,
+      "description": "A simple plan for beginners with essential gym access and a few group classes.",
+      "features": [
+        "Access to cardio machines like treadmills and bikes to improve heart health.",
+        "Two beginner-level group workout sessions per week including yoga and Zumba.",
+        "Shared locker room with secure storage for personal items.",
+        "Free Wi-Fi throughout the gym to stream music or track workouts.",
+        "Basic customer support during staffed hours to assist with inquiries."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "popular": true,
+      "price": 79,
+      "description": "Ideal for regular users, offering full gym access and personal training consultations.",
+      "features": [
+        "Access to all gym equipment including weights, cardio machines, and resistance machines.",
+        "Unlimited group fitness classes like HIIT, yoga, and cycling.",
+        "One complimentary personal training session every month.",
+        "Post-workout relaxation with access to the dry sauna.",
+        "Quarterly nutrition consultations to help achieve fitness goals."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 299,
+      "description": "Designed for fitness enthusiasts who want comprehensive gym services, including 24/7 access and customized plans.",
+      "features": [
+        "Gym access at any time, including weekends and holidays.",
+        "Personalized training with a dedicated trainer to reach your fitness goals.",
+        "Full access to our steam room for detox and muscle recovery.",
+        "Exclusive member discount on sports massage therapy.",
+        "Track progress through our app with synced fitness devices.",
+        "Receive a custom diet plan tailored to your fitness needs."
+      ]
+    }
+  ]
+  
